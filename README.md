@@ -4,8 +4,8 @@ There is some overlap between the lists for problems
 ## Problem Lists
 Neetcode <https://neetcode.io/practice>\
 Grind 150 <https://www.techinterviewhandbook.org/grind75>\
-Sean Prashad <https://seanprashad.com/leetcode-patterns/>
-Back to Back SWE
+Sean Prashad <https://seanprashad.com/leetcode-patterns/>\
+Back to Back SWE\
 8 to 14 hours per day work for 30 days
 
 # NeetCode DSA + SWE videos
