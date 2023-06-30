@@ -1,0 +1,22 @@
+Data Structures-> Linear and Non-Linear
+Linear: Arrays, LinkedList, Stack, Queue
+Nonlinear: Tree, Graphs
+
+Algorithm is a set of instructions, which we use to perform a task or to solve a given problem.
+
+there are several different algorithms to solve a given problem
+Analysis of Algorithm deals in finding best algorithm which runs fast and takes in less memory
+
+Static Array(fixed size arrays)
+
+proprties of array
+An array is contiguous block of data, it will store in RAM in same way
+two most Common operations of array is reading/writing the data
+reading the data from an index position (O(1)) (instant operation/constant time)
+Writing and removing operations at any random location (O(1)) 
+Operation        Big-O Time
+r/wi-th element => O(1)
+Insert / Remove End => 0(1)
+Insert Middle => 0(n)
+Remove Middle => 0(n)
+
