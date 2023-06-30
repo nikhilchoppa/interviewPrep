@@ -271,7 +271,6 @@ Back to Back SWE\
 ### Apply to 15 jobs
 
 ## Day 24 - Advanced Dynamic Programming + 063
-### 0/1 Knapsack 
 ### LCS
 8. Longest Common Subsequence
 9. Distinct Subsequences
@@ -314,5 +313,6 @@ Back to Back SWE\
 
 ## Total in next 30 days I am going to complete these tasks
 # Complete Neetcode DSA & Algorithms - Beginner to Advanced
+# Complete 138 coding problems
 # Complete Back to Back SWE 67 videos
 # Complete 450 job Applications
